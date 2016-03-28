@@ -8,7 +8,7 @@ Translator: Cristiam Mercado <cristiammercadoj@gmail.com>
 $translations = array(
     'h1' => 'Eliminar Cuenta',
 
-    'mysql-username' => 'Nmbre de usuario MySQL',
+    'mysql-username' => 'Nombre de usuario MySQL',
 
     'mysql-user-password' => 'Contraseña de usuario MySQL',
 
